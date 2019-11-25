@@ -19,7 +19,7 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 
 2b. What does a fund manager (portfolio manager) do?
 
-### [3. Hypothesis](#3-hypothesis)
+### [3. Hypothesis](#hypothesis)
 
 Null Hypothesis: Do technology stocks (FAANG) outperform than S&P 500 in the last two years?
 
@@ -96,7 +96,7 @@ By simply diversifying the investment, there is no significant gain in average d
 
 However, there are numerous ways to optimise the portfolio and one of the first elementary steps to create one's optimised portfolio is to create an equal investment portfolio.  
 
-# 3. Hypothesis 
+# Hypothesis 
 
 ### Null hypothesis: FAANG did not outperform S&P 500 in the last two years.
 
