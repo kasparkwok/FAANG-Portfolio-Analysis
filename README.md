@@ -23,7 +23,7 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 
 Null Hypothesis: Do technology stocks (FAANG) outperform than S&P 500 in the last two years?
 
-### [4. Conclusion](#4-findings)
+### [4. Findings](#4-findings)
 
 
 # 1. Introduction to Stock Price Performance Analysis
