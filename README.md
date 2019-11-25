@@ -13,17 +13,17 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 - Moving Averages 
 - Candlesticks 
 
-### [2. Diversification](#2-diversification)
+### [2. Diversification](##2-diversification)
 
 2a. Why is diviersification important?
 
 2b. What does a fund manager (portfolio manager) do?
 
-### [3. Hypothesis](#3-hypothesis)
+### [3. Hypothesis](###3-hypothesis)
 
 Null Hypothesis: Do technology stocks (FAANG) outperform than S&P 500 in the last two years?
 
-### [4. Findings](#4-findings)
+### [4. Findings](####4-findings)
 
 
 # 1. Introduction to Stock Price Performance Analysis
