@@ -4,7 +4,7 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 
 # Table of Content
 
-### [1. Introduction to Stock Price Performance Analysis](#1-introduction-to-stock-price-performance-analysis)
+### [1. Introduction to Stock Price Performance Analysis](#introduction-to-stock-price-performance-analysis)
 
 1a. How does a stock perform over the a certain period of time?
 
@@ -13,7 +13,7 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 - Moving Averages 
 - Candlesticks 
 
-### [2. Diversification](#2-diversification)
+### [2. Diversification](#diversification)
 
 2a. Why is diviersification important?
 
@@ -23,10 +23,10 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 
 Null Hypothesis: Do technology stocks (FAANG) outperform than S&P 500 in the last two years?
 
-### [4. Findings](#4-findings)
+### [4. Findings](#findings)
 
 
-# 1. Introduction to Stock Price Performance Analysis
+# Introduction to Stock Price Performance Analysis
 
 In order to perform individual stock price analysis, one can extract the relevant price information from [here](https://www.alphavantage.co/documentation/)
 
@@ -68,7 +68,7 @@ As a general simplistic trading rule of thumb, it is considered by traders to be
 
 In contrast, a great to __buy__ the underlying is when the market is bullish (uptrend graph) and when the shorter MA (20 days MA in the above graph) crosses above the longer MA (50 days in the above graph).
 
-# 2. Diversification
+# Diversification
 
 ## Why is diversification important?
 
@@ -104,7 +104,7 @@ However, there are numerous ways to optimise the portfolio and one of the first 
 $$ H_0: mean_{FAANG} = mean_{S\&P500}$$
 $$ H_1: mean_{FAANG} \neq mean_{S\&P500}$$
 
-# 4. Findings
+# Findings
 
 ### Daily Return
 
