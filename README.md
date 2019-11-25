@@ -96,7 +96,7 @@ By simply diversifying the investment, there is no significant gain in average d
 
 However, there are numerous ways to optimise the portfolio and one of the first elementary steps to create one's optimised portfolio is to create an equal investment portfolio.  
 
-## 3. Hypothesis 
+# 3. Hypothesis 
 
 ### Null hypothesis: FAANG did not outperform S&P 500 in the last two years.
 
@@ -104,7 +104,7 @@ However, there are numerous ways to optimise the portfolio and one of the first 
 $$ H_0: mean_{FAANG} = mean_{S\&P500}$$
 $$ H_1: mean_{FAANG} \neq mean_{S\&P500}$$
 
-## 4. Findings
+# 4. Findings
 
 ### Daily Return
 
