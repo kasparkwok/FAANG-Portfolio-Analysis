@@ -4,7 +4,7 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 
 # Table of Content
 
-### [1.Introduction to Stock Price Performance Analysis](#1.introduction-to-stock-price-performance-analysis)
+### [1.Introduction to Stock Price Performance Analysis](#introduction-to-stock-price-performance-analysis)
 
 1a. How does a stock perform over the a certain period of time?
 
@@ -26,7 +26,7 @@ Null Hypothesis: Do technology stocks (FAANG) outperform than S&P 500 in the las
 ### 4. Conclusion
 
 
-# 1.Introduction to Stock Price Performance Analysis
+# Introduction to Stock Price Performance Analysis
 
 In order to perform individual stock price analysis, one can extract the relevant price information from [here](https://www.alphavantage.co/documentation/)
 
