@@ -13,7 +13,7 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 - Moving Averages 
 - Candlesticks 
 
-### [2. Diversification](#2-Diversification)
+### [2. Diversification](#2-diversification)
 
 2a. Why is diviersification important?
 
