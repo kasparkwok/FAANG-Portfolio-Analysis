@@ -4,7 +4,7 @@ Using FAANG stocks as an example to have a quick walk-through on stock price ret
 
 # Table of Content
 
-### [1.Introduction to Stock Price Performance Analysis](#introduction-to-stock-price-performance-analysis)
+### [1.Introduction to Stock Price Performance Analysis](#1.introduction-to-stock-price-performance-analysis)
 
 1a. How does a stock perform over the a certain period of time?
 
